@@ -5,5 +5,6 @@
 
 Project list:
 
-eZPublish Lagacy Stack
-GoogleConnector
+<b>eZPublish Lagacy Stack</b>
+
+* GoogleConnector
